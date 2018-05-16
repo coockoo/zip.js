@@ -1,0 +1,22 @@
+{
+  "name": "zip",
+  "version": "1.0.0",
+  "description": "Zip and Unzip",
+  "main": "WebContent/zip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coockoo/zip.js.git"
+  },
+  "keywords": [
+    "zip"
+  ],
+  "author": "Oleksandr Bondarchuk <alex.coockoo@gmail.com> (https://github.com/coockoo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coockoo/zip.js/issues"
+  },
+  "homepage": "https://github.com/coockoo/zip.js#readme"
+}
